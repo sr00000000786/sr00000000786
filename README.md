@@ -65,6 +65,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sr00000000786&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sr00000000786&theme=vue&config=%7B%22name%22%3A%20%22Shubham%20Rangari%22%7D" width="150%" />
 
 
 <h3 align="center">Support:</h3>
