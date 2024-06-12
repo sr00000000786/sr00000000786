@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Data Science, Machine Learning, and Artificial Intelligence.**
 
-- 📫 How to reach me **connect with me on my email id sr00000000786@gmail.com OR LinkedIn at https://www.linkedin.com/in/shubham-rangari-82a5661b3/**
+- 📫 How to reach me **connect with me on my email id sr00000000786@gmail.com OR LinkedIn at https://www.linkedin.com/in/shubrangari/**
 
 - ⚡ Fun fact **I enjoy experimenting with new data visualization tools and creating engaging visual representations of data.**
 
